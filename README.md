@@ -1,2 +1,2 @@
 # BMSTU-sem7-Humanities
-BMSTU BZD course 2020
+BMSTU humanitarian subjects (BZD, Economics, Philosophy) 2020
